@@ -1,7 +1,7 @@
 {
   "name": "social-network-app",
   "version": "0.1.0",
-  "_homepage": "http://github.com/hamzadarej/social-network.git",
+  "homepage": "http://AngelosPa.github.io/The-T-Clone",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.4",
@@ -21,6 +21,8 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
