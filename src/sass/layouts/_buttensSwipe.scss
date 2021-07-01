@@ -1,0 +1,39 @@
+.buttons-swipe {
+  width: 100%;
+  height: 11vh;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  position: absolute;
+  left: 0;
+  bottom: 0vh;
+  border-radius: 20px;
+
+  background: linear-gradient(to top, black, rgb(41, 40, 40), transparent);
+}
+
+// for make the icons look like buttons
+// use !important to make sure to overwrite given styles from IconButton
+.buttons-swipe .MuiIconButton-root {
+  background-color: white;
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.582);
+}
+
+.swipe-redo {
+  color: rgb(255, 186, 58) !important;
+}
+
+.swipe-close {
+  color: rgb(253, 110, 94) !important;
+}
+
+.swipe-star {
+  color: rgb(83, 129, 255) !important;
+}
+.swipe-heart {
+  color: rgb(55, 184, 151) !important;
+}
+
+.swipe-bolt {
+  color: rgb(149, 31, 233) !important;
+}

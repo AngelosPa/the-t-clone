@@ -1,0 +1,32 @@
+@import url(//db.onlinewebfonts.com/c/056353a27c68233bab7e618c8b191d65?family=Gotham+Pro);
+@font-face {
+  font-family: "Gotham Pro";
+  src: url("//db.onlinewebfonts.com/t/056353a27c68233bab7e618c8b191d65.eot");
+  src: url("//db.onlinewebfonts.com/t/056353a27c68233bab7e618c8b191d65.eot?#iefix")
+      format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/056353a27c68233bab7e618c8b191d65.woff2")
+      format("woff2"),
+    url("//db.onlinewebfonts.com/t/056353a27c68233bab7e618c8b191d65.woff")
+      format("woff"),
+    url("//db.onlinewebfonts.com/t/056353a27c68233bab7e618c8b191d65.ttf")
+      format("truetype"),
+    url("//db.onlinewebfonts.com/t/056353a27c68233bab7e618c8b191d65.svg#Gotham Pro")
+      format("svg");
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Gotham Pro";
+}
+body {
+  overflow: hidden;
+}
+.body-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+}

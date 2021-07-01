@@ -1,0 +1,57 @@
+@import "../abstracts/variables";
+
+.login-page-wrapper {
+  text-align: left;
+  padding: 5%;
+  width: 80vw;
+  height: 100vh;
+
+  .login-page-logo {
+    text-align: center;
+    padding: 5%;
+
+    h1 {
+      font-size: 1.2em;
+      font-weight: bolder;
+      padding: 2%;
+    }
+    p {
+      font-size: 0.8em;
+      font-weight: lighter;
+    }
+  }
+
+  .login-page-messages {
+    h2 {
+      font-size: 1em;
+      font-weight: bold;
+      padding: 2%;
+      .check-icon {
+        color: $button-primary-color;
+      }
+    }
+    p {
+      font-size: 1em;
+      font-weight: lighter;
+      line-height: 1;
+      padding: 1%;
+
+      span {
+        color: #ff2471;
+      }
+    }
+  }
+
+  .button-wrapper {
+    text-align: center;
+    padding: 10%;
+    button {
+      width: 70vw;
+      height: 40px;
+      border: none;
+      border-radius: 20px;
+      color: white;
+      background: $button-primary-color;
+    }
+  }
+}
