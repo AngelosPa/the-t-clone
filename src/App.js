@@ -35,7 +35,7 @@ function App() {
     <div className="body-container">
       <Router>
         <Switch>
-          <Route path="/" exact>
+          <Route path={process.env.PUBLIC_URL + "/"} exact>
             <Login />
           </Route>
           <Route path="/cards" exact>
