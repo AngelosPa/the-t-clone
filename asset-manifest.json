@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/The-T-Clone/static/css/main.4b00ccb6.chunk.css",
-    "main.js": "/The-T-Clone/static/js/main.0dd353c1.chunk.js",
-    "main.js.map": "/The-T-Clone/static/js/main.0dd353c1.chunk.js.map",
+    "main.js": "/The-T-Clone/static/js/main.e3284cb9.chunk.js",
+    "main.js.map": "/The-T-Clone/static/js/main.e3284cb9.chunk.js.map",
     "runtime-main.js": "/The-T-Clone/static/js/runtime-main.ea4383d2.js",
     "runtime-main.js.map": "/The-T-Clone/static/js/runtime-main.ea4383d2.js.map",
     "static/js/2.6d040c26.chunk.js": "/The-T-Clone/static/js/2.6d040c26.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.ea4383d2.js",
     "static/js/2.6d040c26.chunk.js",
     "static/css/main.4b00ccb6.chunk.css",
-    "static/js/main.0dd353c1.chunk.js"
+    "static/js/main.e3284cb9.chunk.js"
   ]
 }
