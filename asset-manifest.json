@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/The-T-Clone/static/css/main.4b00ccb6.chunk.css",
-    "main.js": "/The-T-Clone/static/js/main.e3284cb9.chunk.js",
-    "main.js.map": "/The-T-Clone/static/js/main.e3284cb9.chunk.js.map",
-    "runtime-main.js": "/The-T-Clone/static/js/runtime-main.ea4383d2.js",
-    "runtime-main.js.map": "/The-T-Clone/static/js/runtime-main.ea4383d2.js.map",
-    "static/js/2.6d040c26.chunk.js": "/The-T-Clone/static/js/2.6d040c26.chunk.js",
-    "static/js/2.6d040c26.chunk.js.map": "/The-T-Clone/static/js/2.6d040c26.chunk.js.map",
-    "index.html": "/The-T-Clone/index.html",
-    "static/css/main.4b00ccb6.chunk.css.map": "/The-T-Clone/static/css/main.4b00ccb6.chunk.css.map",
-    "static/js/2.6d040c26.chunk.js.LICENSE.txt": "/The-T-Clone/static/js/2.6d040c26.chunk.js.LICENSE.txt"
+    "main.css": "/the-t-clone/static/css/main.4b00ccb6.chunk.css",
+    "main.js": "/the-t-clone/static/js/main.1a362e0d.chunk.js",
+    "main.js.map": "/the-t-clone/static/js/main.1a362e0d.chunk.js.map",
+    "runtime-main.js": "/the-t-clone/static/js/runtime-main.4386820b.js",
+    "runtime-main.js.map": "/the-t-clone/static/js/runtime-main.4386820b.js.map",
+    "static/js/2.6d040c26.chunk.js": "/the-t-clone/static/js/2.6d040c26.chunk.js",
+    "static/js/2.6d040c26.chunk.js.map": "/the-t-clone/static/js/2.6d040c26.chunk.js.map",
+    "index.html": "/the-t-clone/index.html",
+    "static/css/main.4b00ccb6.chunk.css.map": "/the-t-clone/static/css/main.4b00ccb6.chunk.css.map",
+    "static/js/2.6d040c26.chunk.js.LICENSE.txt": "/the-t-clone/static/js/2.6d040c26.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea4383d2.js",
+    "static/js/runtime-main.4386820b.js",
     "static/js/2.6d040c26.chunk.js",
     "static/css/main.4b00ccb6.chunk.css",
-    "static/js/main.e3284cb9.chunk.js"
+    "static/js/main.1a362e0d.chunk.js"
   ]
 }
