@@ -1,7 +1,7 @@
 {
   "name": "social-network-app",
   "version": "0.1.0",
-  "homepage": "http://AngelosPa.github.io/the-t-clone",
+  "homepage": "https://the-t-clone-the-real-8aoxqj10a-angelospa.vercel.app/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.4",
